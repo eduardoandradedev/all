@@ -1,0 +1,112 @@
+{
+  "observacoes": "Obs Loja: 03/09/2023 16:35:06 Pedido em 1 vez de R$ 171.00 através do Pix - Vindi - Pix<br/> Link da transação: https://intermediador.yapay.com.br/orders/pix/0146d9586dade7dfefff19db1b241d70\n",
+  "observacaointerna": "",
+  "data": "2023-09-03 17:02:00",
+  "numero": "301",
+  "numeroOrdemCompra": "",
+  "vendedor": "",
+  "valorfrete": "0.00",
+  "outrasdespesas": "0.00",
+  "totalprodutos": "180.00",
+  "totalvenda": "171.00",
+  "situacao": "Em aberto",
+  "dataSaida": "2022-09-04",
+  "loja": "203788979",
+  "numeroPedidoLoja": "579",
+  "tipoIntegracao": "Tray",
+  "cliente": {
+    "id": "15859632426",
+    "nome": "João José da Silva",
+    "cnpj": "80465684149",
+    "ie": null,
+    "rg": "",
+    "endereco": "Avenida Bandeirantes",
+    "numero": "133",
+    "complemento": "",
+    "cidade": "Pindamonhangaba",
+    "bairro": "Centro",
+    "cep": "12400410",
+    "uf": "SP",
+    "email": "meuemail@live.com",
+    "celular": "(12) 99244-2286",
+    "fone": ""
+  },
+  "transporte": {
+    "tipo_frete": "R",
+    "qtde_volumes": "0",
+    "enderecoEntrega": {
+      "nome": "Graciela Souza de Oliveira",
+      "endereco": "Avenida Bandeirantes",
+      "numero": "3625",
+      "complemento": "",
+      "cidade": "Campo Grande",
+      "bairro": "Amambaí",
+      "cep": "79.005-670",
+      "uf": "MS"
+    }
+  },
+  "itens": [
+    {
+        "codigo": "34763",
+        "descricao": "Quarteto Fantástico 60 caps Tici",
+        "quantidade": "1.0000",
+        "valorunidade": "60.0000000000",
+        "precocusto": "0.0000000000",
+        "descontoItem": "0.00",
+        "un": "UN",
+        "pesoBruto": "0.06300",
+        "largura": "5",
+        "altura": "9",
+        "profundidade": "5",
+        "descricaoDetalhada": "",
+        "unidadeMedida": "cm",
+        "gtin": ""
+    },
+    {
+        "codigo": "34764",
+        "descricao": "Quarteto Fantástico 30 caps",
+        "quantidade": "1.0000",
+        "valorunidade": "60.0000000000",
+        "precocusto": "0.0000000000",
+        "descontoItem": "0.00",
+        "un": "UN",
+        "pesoBruto": "0.06300",
+        "largura": "5",
+        "altura": "9",
+        "profundidade": "5",
+        "descricaoDetalhada": "",
+        "unidadeMedida": "cm",
+        "gtin": ""
+    },
+    {
+        "codigo": "34765",
+        "descricao": "Creme de Barbear",
+        "quantidade": "1.0000",
+        "valorunidade": "60.0000000000",
+        "precocusto": "0.0000000000",
+        "descontoItem": "0.00",
+        "un": "UN",
+        "pesoBruto": "0.02300",
+        "largura": "10",
+        "altura": "6",
+        "profundidade": "7",
+        "descricaoDetalhada": "",
+        "unidadeMedida": "cm",
+        "gtin": ""
+    }
+  ],
+  "parcelas": [
+    {
+        "idLancamento": "0",
+        "valor": "171.00",
+        "dataVencimento": "2022-10-03 00:00:00",
+        "obs": "Método de pagamento: Pix - Vindi | Número do Pedido: 579",
+        "destino": "1",
+        "forma_pagamento": {
+          "id": "1900937",
+          "descricao": "Conta a receber/pagar",
+          "codigoFiscal": "15"
+        }
+    }
+  ]
+}
